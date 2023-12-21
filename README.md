@@ -1,7 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
-
-<br />
-
 **I am a self-taught web developer from India.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
